@@ -1,0 +1,2 @@
+# Requires: pre-emptiness
+# (Not available on PyPI)
